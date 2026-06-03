@@ -1,0 +1,5 @@
+STOCK PORTFOLIO REPORT
+=========================
+AAPL | Quantity: 3 | Value: ₹540
+=========================
+Total Investment Value: ₹540
