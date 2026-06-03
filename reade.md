@@ -57,8 +57,9 @@ This project is part of the CodeAlpha Python Programming Internship.
 
 👨‍💻 Author
 
-Your Name
-GitHub: https://github.com/your-username
+Your Name:Pamarthi Yasaswi
+
+GitHub:https://github.com/YASASWI-IT/CodeAlpha_StockPortfolioTracker.git
 
 📌 Note
 
