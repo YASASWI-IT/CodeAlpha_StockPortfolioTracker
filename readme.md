@@ -10,23 +10,29 @@ Predefined stock prices using dictionary
 Calculates total investment value
 Handles invalid stock inputs
 Generates a text file report of the portfolio
+
 🛠️ Technologies Used
 Python 3
 Basic Input/Output
 Dictionaries
 Loops and Conditional Statements
 File Handling
+
 📂 Project Structure
 CodeAlpha_StockPortfolioTracker/
 │
 ├── stock_tracker.py
 ├── portfolio_report.txt
 └── README.md
+
 ▶️ How to Run
+
 Clone the repository:
 git clone https://github.com/your-username/CodeAlpha_StockPortfolioTracker.git
+
 Navigate to project folder:
 cd CodeAlpha_StockPortfolioTracker
+
 Run the program:
 python stock_tracker.py
 📊 Sample Output
